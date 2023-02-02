@@ -13,3 +13,6 @@ my home town is matara
 stash example 1
 
 stash example 2
+
+////////////////////
+conflict example
